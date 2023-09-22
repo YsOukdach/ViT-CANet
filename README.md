@@ -2,15 +2,15 @@
 
 This repository represents the whole implementation of the proposed approach described in our paper titled 'ViTCA-Net: A Framework for Disease Detection in Video Capsule Endoscopy Images Using a Vision Transformer and Convolutional Neural Network with a Specific Attention Mechanism.
 
-To train the model, please feel free to clone this repository using this command in your terminal
+To train the model, please feel free to clone this repository using this command in your terminal:
 ```bash
 git clone https://github.com/YsOukdach/ViT-CANet.git
 ```
-Install install the dependencies by using this command  
+Install install the dependencies by using this command:
 ```bash
 pip install -r requerments 
 ```
-Start training runing : 
+Start training runing: 
 ```bash
 python train.py 
 ```
