@@ -4,7 +4,7 @@ This repository represents the whole implementation of the proposed approach des
 
 To train the model, please feel free to clone this repository using this command in your terminal
 ```bash
-git clone https://github.com/YsOukdach/ViT-CANet.git)https://github.com/YsOukdach/ViT-CANet.git
+git clone https://github.com/YsOukdach/ViT-CANet.git
 ```
 Install install the dependencies by using this command  
 ```bash
